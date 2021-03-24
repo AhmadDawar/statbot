@@ -1,0 +1,314 @@
+,main,localitylevel,type_locality,locality_insert,type_year,yeartime,stringtime,filter,sentence
+0,Eigenkapital,,one locality,in Dachsen,aktuellste,2019,aktuellste,,Wie viel Eigenkapital hat  in Dachsen aktuellste ?
+1,Bruttoverschuldungsanteil,,several localities,"Horgen, Wila und Region Oberland",älteste,1990,älteste,,"Was ist der Anteil von Bruttoverschuldungsanteil  Horgen, Wila und Region Oberland älteste?"
+2,Steuerbares Vermögen natürliche Pers.,,one locality,in Grüningen,span,"[2003, 2005]",von 2003 bis 2005,,Wie viel Steuerbares Vermögen natürliche Pers. hat  in Grüningen von 2003 bis 2005 ?
+3,Sterbefälle,,several localities,Flurlingen,span,"[1994, 2005]",von 1994 bis 2005,,Wie viel Sterbefälle hat  Flurlingen von 1994 bis 2005 ?
+4,Jugendquotient,,one locality,in Dachsen,älteste,1998,älteste,,Was ist der Anteil von Jugendquotient  in Dachsen älteste?
+5,Geb.Vol. Dienstleistungen: Zunahme,,one locality,in Bau und Immobilien,year,2011,in 2012,,Was ist der Anteil von Geb.Vol. Dienstleistungen: Zunahme  in Bau und Immobilien in 2012?
+6,Bevölkerungszunahme 5 Jahre,,one level,auf Gemeindeebene,älteste,1962,älteste,,Wie viel Bevölkerungszunahme 5 Jahre hat  auf Gemeindeebene älteste ?
+7,ÖVAnteil Modal Split,,several localities,Volketswil und Oberstammheim (bis 2018),aktuellste,2018,aktuellste,,Was ist der Anteil von ÖVAnteil Modal Split  Volketswil und Oberstammheim bis 2018 aktuellste?
+8,Hotels,,one locality,in Uster,aktuellste,2019,aktuellste,,Wie viel Hotels hat  in Uster aktuellste ?
+9,KRW Wähleranteil CVP,,several localities,Maur,aktuellste,2019,aktuellste,,Was ist der Anteil von KRW Wähleranteil CVP  Maur aktuellste?
+10,NRW Wähleranteil SP,,several localities,Feuerthalen und Nürensdorf,älteste,1991,älteste,,Was ist der Anteil von NRW Wähleranteil SP  Feuerthalen und Nürensdorf älteste?
+11,Wahlbeteiligung Kantonsrat,,one locality,in Wildberg,älteste,2003,älteste,,Was ist der Anteil von Wahlbeteiligung Kantonsrat  in Wildberg älteste?
+12,Steuerkraft berichtigt pro Kopf,,several localities,"Hüntwangen, Wetzikon und Aesch ZH",älteste,1990,älteste,,"Wie viel Steuerkraft berichtigt pro Kopf hat  Hüntwangen, Wetzikon und Aesch ZH älteste ?"
+13,Total Arbeitsstätten,,one level,auf Bezirksebene,span,"[2012, 2013]",von 2012 bis 2013,,Wie viel Total Arbeitsstätten hat  auf Bezirksebene von 2012 bis 2013 ?
+14,Total VZÄ,,one locality,in Aesch ZH,älteste,2011,älteste,,Wie viel Total VZÄ hat  in Aesch ZH älteste ?
+15,"Bauinv. ÖV, Kommunik. 5 Jahre",,several localities,Kappel a.A.,span,"[2007, 2014]",von 2007 bis 2014,,"Wie viel Bauinv. ÖV, Kommunik. 5 Jahre hat  Kappel a.A. von 2007 bis 2014 ?"
+16,Schül. Primarschule,,one level,im Kanton Zürich,aktuellste,2019,aktuellste,,Wie viel Schül. Primarschule hat  im Kanton Zürich aktuellste ?
+17,Neuerstellte Wohnungen,,several localities,Mettmenstetten,älteste,1971,älteste,,Wie viel Neuerstellte Wohnungen hat  Mettmenstetten älteste ?
+18,Steuerb. Vermögen natürl. Pers. 75%Quantil,,several localities,Rüschlikon und Küsnacht,year,2010,in 2016,,Wie viel Steuerb. Vermögen natürl. Pers. 75%Quantil hat  Rüschlikon und Küsnacht in 2016 ?
+19,Steuerb. Einkommen natürl. Pers. Durchschn.,,one locality,in Dättlikon,älteste,1999,älteste,,Wie viel Steuerb. Einkommen natürl. Pers. Durchschn. hat  in Dättlikon älteste ?
+20,Steuerb. Vermögen natürl. Pers. Durchschn.,,one locality,in Mönchaltorf,year,2012,in 2009,,Wie viel Steuerb. Vermögen natürl. Pers. Durchschn. hat  in Mönchaltorf in 2009 ?
+21,Anteil Gewässerfläche,,one locality,in Dübendorf,aktuellste,2018,aktuellste,,Was ist der Anteil von Anteil Gewässerfläche  in Dübendorf aktuellste?
+22,Bauinv. MFH 5 Jahre,,one locality,in Regensberg,älteste,1998,älteste,,Wie viel Bauinv. MFH 5 Jahre hat  in Regensberg älteste ?
+23,Erwerb des Schweizer Bürgerrechts,,one level,auf Gemeindeebene,span,"[1995, 2000]",von 1995 bis 2000,,Wie viel Erwerb des Schweizer Bürgerrechts hat  auf Gemeindeebene von 1995 bis 2000 ?
+24,Verpackungsglasmengen,,one locality,in Hombrechtikon,year,2005,in 2007,,Wie viel Verpackungsglasmengen hat  in Hombrechtikon in 2007 ?
+25,Apotheken,,one level,auf Bezirksebene,aktuellste,2020,aktuellste,,Wie viel Apotheken hat  auf Bezirksebene aktuellste ?
+26,2Personenhaushalte,,one level,für den gesamten Kanton,älteste,1970,älteste,,Wie viel 2Personenhaushalte hat  für den gesamten Kanton älteste ?
+27,Anteil 5Personenhaushalte,,one level,im Kanton Zürich,year,2014,in 2015,,Was ist der Anteil von Anteil 5Personenhaushalte  im Kanton Zürich in 2015?
+28,Anteil 6 und mehr Personenhaushalte,,one level,für alle Bezirke,aktuellste,2019,aktuellste,,Was ist der Anteil von Anteil 6 und mehr Personenhaushalte  für alle Bezirke aktuellste?
+29,"Nettoaufwand Kultur, Sport und Freizeit",,one level,auf Bezirksebene,aktuellste,2019,aktuellste,,"Wie viel Nettoaufwand Kultur, Sport und Freizeit hat  auf Bezirksebene aktuellste ?"
+30,Bevölkerung: Frauen,,several localities,Bevölkerung und Soziales und Bevölkerung und Soziales,älteste,1991,älteste,,Wie viel Bevölkerung: Frauen hat  Bevölkerung und Soziales und Bevölkerung und Soziales älteste ?
+31,Steuerertrag allgemeine Gemeindesteuern,,one locality,in Horgen (bis 2017),span,"[1997, 2002]",von 1997 bis 2002,,Wie viel Steuerertrag allgemeine Gemeindesteuern hat  in Horgen bis 2017 von 1997 bis 2002 ?
+32,Ertrags + / Aufwandüberschuss ,,one level,auf Bezirksebene,year,2006,in 2006,,Wie viel Ertrags + / Aufwandüberschuss  hat  auf Bezirksebene in 2006 ?
+33,Reformierte Kirchensteuerpflichtige,,several localities,Illnau-Effretikon (bis 2015),span,"[1993, 1998]",von 1993 bis 1998,,Wie viel Reformierte Kirchensteuerpflichtige hat  IllnauEffretikon bis 2015 von 1993 bis 1998 ?
+34,Gesamtsteuerfuss ohne Kirchen,,one locality,in Erlenbach,älteste,2012,älteste,,Was ist der Anteil von Gesamtsteuerfuss ohne Kirchen  in Erlenbach älteste?
+35,Neuzulassungen  Hybridantrieb,,several localities,Niederglatt,year,2016,in 2013,,Was ist der Anteil von Neuzulassungen  Hybridantrieb  Niederglatt in 2013?
+36,Neuzulassungen  Dieselmotor,,one locality,in Region Weinland,year,2020,in 2002,,Was ist der Anteil von Neuzulassungen  Dieselmotor  in Region Weinland in 2002?
+37,Steuerertrag von juristischen Personen,,several localities,Flaach,älteste,1990,älteste,,Wie viel Steuerertrag von juristischen Personen hat  Flaach älteste ?
+38,Gebäudevolumen,,one locality,in Trüllikon,span,"[2012, 2017]",von 2012 bis 2017,,Wie viel Gebäudevolumen hat  in Trüllikon von 2012 bis 2017 ?
+39,Rinderviehbestand,,several localities,Winterthur und Bäretswil,älteste,1985,älteste,,Wie viel Rinderviehbestand hat  Winterthur und Bäretswil älteste ?
+40,Geb.Vol. Nebengebäude: Zunahme,,one level,auf Gemeindeebene,aktuellste,2019,aktuellste,,Was ist der Anteil von Geb.Vol. Nebengebäude: Zunahme  auf Gemeindeebene aktuellste?
+41,Zahnärzte,,one level,pro Bezirk,year,2011,in 2007,,Wie viel Zahnärzte hat  pro Bezirk in 2007 ?
+42,Selbstfinanzierung,,one level,pro Gemeinde,year,2004,in 2013,,Wie viel Selbstfinanzierung hat  pro Gemeinde in 2013 ?
+43,Schül. Mittelschule,,one locality,in Oberglatt,aktuellste,2019,aktuellste,,Wie viel Schül. Mittelschule hat  in Oberglatt aktuellste ?
+44,Schül. Oberstufe,,several localities,Laufen-Uhwiesen und Aeugst a.A.,year,2001,in 2012,,Wie viel Schül. Oberstufe hat  LaufenUhwiesen und Aeugst a.A. in 2012 ?
+45,Bauinv. Dienstl. 5 Jahre,,several localities,Marthalen und Dällikon,älteste,1998,älteste,,Wie viel Bauinv. Dienstl. 5 Jahre hat  Marthalen und Dällikon älteste ?
+46,"Bauinv. Strassen, PP 5 Jahre",,several localities,Höri,span,"[2004, 2016]",von 2004 bis 2016,,"Wie viel Bauinv. Strassen, PP 5 Jahre hat  Höri von 2004 bis 2016 ?"
+47,Schül. Oberstufe,,one level,auf Gemeindeebene,year,2015,in 2016,,Wie viel Schül. Oberstufe hat  auf Gemeindeebene in 2016 ?
+48,Anteil jur. Pers. an allg. Gemeindesteuern,,one level,im Kanton Zürich,span,"[2013, 2019]",von 2013 bis 2019,,Was ist der Anteil von Anteil jur. Pers. an allg. Gemeindesteuern  im Kanton Zürich von 2013 bis 2019?
+49,Geburten,,one level,auf Gemeindeebene,aktuellste,2019,aktuellste,,Wie viel Geburten hat  auf Gemeindeebene aktuellste ?
+50,Höhe,,one level,für alle Gemeinden,aktuellste,1995,aktuellste,,Wie viel Höhe hat  für alle Gemeinden aktuellste ?
+51,KRW Wähleranteil SVP,,one level,auf Bezirksebene,span,"[2007, 2015]",von 2007 bis 2015,,Was ist der Anteil von KRW Wähleranteil SVP  auf Bezirksebene von 2007 bis 2015?
+52,Kühe,,one level,im Kanton Zürich,span,"[2015, 2016]",von 2015 bis 2016,,Wie viel Kühe hat  im Kanton Zürich von 2015 bis 2016 ?
+53,Bevölkerung: Heimat Ausland,,one level,für alle Bezirke,year,1991,in 2008,,Wie viel Bevölkerung: Heimat Ausland hat  für alle Bezirke in 2008 ?
+54,Steuerbares Einkommen natürliche Pers.,,several localities,Wald,year,2004,in 2008,,Wie viel Steuerbares Einkommen natürliche Pers. hat  Wald in 2008 ?
+55,Schül. Primarschule,,one locality,in Otelfingen,älteste,1990,älteste,,Wie viel Schül. Primarschule hat  in Otelfingen älteste ?
+56,KRW Wähleranteil AL,,one level,für den gesamten Kanton,span,"[2011, 2019]",von 2011 bis 2019,,Was ist der Anteil von KRW Wähleranteil AL  für den gesamten Kanton von 2011 bis 2019?
+57,Bevölkerung: Heimat Schweiz,,one locality,in Bevölkerung und Soziales,älteste,1978,älteste,,Wie viel Bevölkerung: Heimat Schweiz hat  in Bevölkerung und Soziales älteste ?
+58,Bevölkerung: Durchschnittsalter,,several localities,Bevölkerung und Soziales,aktuellste,2020,aktuellste,,Wie viel Bevölkerung: Durchschnittsalter hat  Bevölkerung und Soziales aktuellste ?
+59,Baulandpreis Median,,one locality,in Oetwil a.d.L.,aktuellste,2019,aktuellste,,Wie viel Baulandpreis Median hat  in Oetwil a.d.L. aktuellste ?
+60,Arbeitslosenanteil an Bevölkerung 1564 Jahre,,one level,für alle Gemeinden,span,"[2014, 2018]",von 2014 bis 2018,,Was ist der Anteil von Arbeitslosenanteil an Bevölkerung 1564 Jahre  für alle Gemeinden von 2014 bis 2018?
+61,Anteil 1Personenhaushalte,,several localities,Feuerthalen und Neftenbach,älteste,1970,älteste,,Was ist der Anteil von Anteil 1Personenhaushalte  Feuerthalen und Neftenbach älteste?
+62,Schül. Kindergarten,,several localities,Stadel und Turbenthal,älteste,1990,älteste,,Wie viel Schül. Kindergarten hat  Stadel und Turbenthal älteste ?
+63,5Personenhaushalte,,several localities,"Dällikon, Wasterkingen und Region Winterthur u. Umg.",älteste,1970,älteste,,"Wie viel 5Personenhaushalte hat  Dällikon, Wasterkingen und Region Winterthur u. Umg. älteste ?"
+64,6 und mehr Personenhaushalte,,one locality,in Turbenthal,älteste,1970,älteste,,Wie viel 6 und mehr Personenhaushalte hat  in Turbenthal älteste ?
+65,Durchschnittliche Haushaltsgrösse,,one locality,in Bassersdorf,älteste,2010,älteste,,Wie viel Durchschnittliche Haushaltsgrösse hat  in Bassersdorf älteste ?
+66,Anteil 4Personenhaushalte,,one locality,in Dachsen,year,2019,in 2000,,Was ist der Anteil von Anteil 4Personenhaushalte  in Dachsen in 2000?
+67,Steuerb. Vermögen natürl. Pers. 25%Quantil,,one locality,in Altikon,älteste,2003,älteste,,Wie viel Steuerb. Vermögen natürl. Pers. 25%Quantil hat  in Altikon älteste ?
+68,"MIVWege Quell, Ziel und Binnenverkehr",,one locality,in Hüntwangen,älteste,2013,älteste,,"Wie viel MIVWege Quell, Ziel und Binnenverkehr hat  in Hüntwangen älteste ?"
+69,Anteil GK C,,one locality,in Stallikon,span,"[2019, 2019]",von 2019 bis 2019,,Was ist der Anteil von Anteil GK C  in Stallikon von 2019 bis 2019?
+70,Bauinvestitionen,,one level,für alle Gemeinden,span,"[1999, 2005]",von 1999 bis 2005,,Wie viel Bauinvestitionen hat  für alle Gemeinden von 1999 bis 2005 ?
+71,Bauinv. Landwirtschaft 5 Jahre,,several localities,"Knonau, Männedorf und Neftenbach",aktuellste,2018,aktuellste,,"Wie viel Bauinv. Landwirtschaft 5 Jahre hat  Knonau, Männedorf und Neftenbach aktuellste ?"
+72,Anteil natürl. Pers. an allg. Gemeindesteuern,,one level,pro Gemeinde,span,"[2003, 2011]",von 2003 bis 2011,,Was ist der Anteil von Anteil natürl. Pers. an allg. Gemeindesteuern  pro Gemeinde von 2003 bis 2011?
+73,VZÄ im Primärsektor,,one locality,in Region Knonaueramt,älteste,2011,älteste,,Wie viel VZÄ im Primärsektor hat  in Region Knonaueramt älteste ?
+74,Anteil 6+ Zi.Wohnungen,,one locality,in Herrliberg,year,1991,in 2018,,Was ist der Anteil von Anteil 6+ Zi.Wohnungen  in Herrliberg in 2018?
+75,MotorradNeuzulasssungen pro 1000 Einw.,,one level,im Kanton Zürich,aktuellste,2020,aktuellste,,Wie viel MotorradNeuzulasssungen pro 1000 Einw. hat  im Kanton Zürich aktuellste ?
+76,Neuzulassungen anderer Antrieb,,several localities,Dachsen,älteste,2002,älteste,,Was ist der Anteil von Neuzulassungen anderer Antrieb  Dachsen älteste?
+77,Bestand Benzinmotor,,one locality,in Oetwil a.d.L.,span,"[2009, 2016]",von 2009 bis 2016,,Was ist der Anteil von Bestand Benzinmotor  in Oetwil a.d.L. von 2009 bis 2016?
+78,Bestand anderer Antrieb,,several localities,Thalwil,älteste,2002,älteste,,Was ist der Anteil von Bestand anderer Antrieb  Thalwil älteste?
+79,Nettoaufwand Finanzen und Steuern,,one level,für alle Gemeinden,aktuellste,2019,aktuellste,,Wie viel Nettoaufwand Finanzen und Steuern hat  für alle Gemeinden aktuellste ?
+80,Steuerertrag Grundsteuern,,several localities,"Wettswil a.A., Hombrechtikon und Dänikon",span,"[1997, 2008]",von 1997 bis 2008,,"Wie viel Steuerertrag Grundsteuern hat  Wettswil a.A., Hombrechtikon und Dänikon von 1997 bis 2008 ?"
+81,Steuerertrag Kirchgemeinden,,several localities,"Neerach, Aeugst a.A. und Weisslingen",älteste,1990,älteste,,"Wie viel Steuerertrag Kirchgemeinden hat  Neerach, Aeugst a.A. und Weisslingen älteste ?"
+82,Steuerertrag Politische/Schulgemeinde,,one level,für alle Gemeinden,year,2000,in 2003,,Wie viel Steuerertrag Politische/Schulgemeinde hat  für alle Gemeinden in 2003 ?
+83,Wanderungsbilanz,,one level,pro Bezirk,älteste,1990,älteste,,Wie viel Wanderungsbilanz hat  pro Bezirk älteste ?
+84,Ø Eigenkapital steuerpfl. jur. Pers.,,several localities,"Bezirk Zürich, Bezirk Zürich und Pfäffikon",year,1992,in 1991,,"Wie viel Ø Eigenkapital steuerpfl. jur. Pers. hat  Bezirk Zürich, Bezirk Zürich und Pfäffikon in 1991 ?"
+85,Geb.Vol. Dienstleistungen: Anteil,,several localities,Bau und Immobilien,year,2014,in 2004,,Was ist der Anteil von Geb.Vol. Dienstleistungen: Anteil  Bau und Immobilien in 2004?
+86,Bevölkerung: Anteil 4064Jährige,,one level,auf Gemeindeebene,year,2020,in 2018,,Was ist der Anteil von Bevölkerung: Anteil 4064Jährige  auf Gemeindeebene in 2018?
+87,Leerwohnungsquote,,one locality,in Region Weinland,year,2012,in 2002,,Was ist der Anteil von Leerwohnungsquote  in Region Weinland in 2002?
+88,Geburtenrate 5J.mittel,,one level,für alle Bezirke,älteste,1994,älteste,,Wie viel Geburtenrate 5J.mittel hat  für alle Bezirke älteste ?
+89,Geburtenüberschuss 5J.mittel,,one locality,in Lindau,span,"[2002, 2015]",von 2002 bis 2015,,Wie viel Geburtenüberschuss 5J.mittel hat  in Lindau von 2002 bis 2015 ?
+90,Geburtenrate,,several localities,Bezirk Zürich und Thalheim a.d.Th.,year,1993,in 1997,,Wie viel Geburtenrate hat  Bezirk Zürich und Thalheim a.d.Th. in 1997 ?
+91,Wanderungsbilanz,,several localities,Freienstein-Teufen,aktuellste,2019,aktuellste,,Wie viel Wanderungsbilanz hat  FreiensteinTeufen aktuellste ?
+92,Schafe,,one level,für alle Bezirke,span,"[2010, 2012]",von 2010 bis 2012,,Wie viel Schafe hat  für alle Bezirke von 2010 bis 2012 ?
+93,Personenwagen,,one level,für alle Bezirke,year,2005,in 2012,,Wie viel Personenwagen hat  für alle Bezirke in 2012 ?
+94,Schül. Berufsschule,,one locality,in Region Furttal,year,1992,in 2016,,Wie viel Schül. Berufsschule hat  in Region Furttal in 2016 ?
+95,Bauzonen überbaut,,one locality,in Unterstammheim (bis 2018),year,2008,in 2000,,Was ist der Anteil von Bauzonen überbaut  in Unterstammheim bis 2018 in 2000?
+96,Schül. Tertiärstufe,,one locality,in Winkel,aktuellste,2019,aktuellste,,Wie viel Schül. Tertiärstufe hat  in Winkel aktuellste ?
+97,Steuerb. Einkommen natürl. Pers. 75%Quantil,,several localities,Dällikon,year,2007,in 2008,,Wie viel Steuerb. Einkommen natürl. Pers. 75%Quantil hat  Dällikon in 2008 ?
+98,Steuerb. Einkommen natürl. Pers. 25%Quantil,,one level,für den gesamten Kanton,älteste,1999,älteste,,Wie viel Steuerb. Einkommen natürl. Pers. 25%Quantil hat  für den gesamten Kanton älteste ?
+99,NRW Wähleranteil BDP,,several localities,"Flaach, Hittnau und Hausen a.A.",älteste,2011,älteste,,"Was ist der Anteil von NRW Wähleranteil BDP  Flaach, Hittnau und Hausen a.A. älteste?"
+100,NRW Wähleranteil FDP,,one level,für alle Bezirke,year,2011,in 1995,,Was ist der Anteil von NRW Wähleranteil FDP  für alle Bezirke in 1995?
+101,NRW Wähleranteil GP,,one level,für alle Gemeinden,älteste,1991,älteste,,Was ist der Anteil von NRW Wähleranteil GP  für alle Gemeinden älteste?
+102,Beschäftigte Landwirtschaft,,several localities,Meilen,span,"[2011, 2012]",von 2011 bis 2012,,Wie viel Beschäftigte Landwirtschaft hat  Meilen von 2011 bis 2012 ?
+103,KRW Wähleranteil SD,,one locality,in Dägerlen,year,2003,in 2011,,Was ist der Anteil von KRW Wähleranteil SD  in Dägerlen in 2011?
+104,Apotheken,,one level,für alle Gemeinden,span,"[1997, 2015]",von 1997 bis 2015,,Wie viel Apotheken hat  für alle Gemeinden von 1997 bis 2015 ?
+105,Anteil 2 Zi.Wohnungen,,one level,im Kanton Zürich,älteste,1990,älteste,,Was ist der Anteil von Anteil 2 Zi.Wohnungen  im Kanton Zürich älteste?
+106,Scheidungen,,several localities,"Region Weinland, Buch a.I. und Stallikon",year,2002,in 1997,,"Wie viel Scheidungen hat  Region Weinland, Buch a.I. und Stallikon in 1997 ?"
+107,Anteil 2Personenhaushalte,,one level,für den gesamten Kanton,aktuellste,2019,aktuellste,,Was ist der Anteil von Anteil 2Personenhaushalte  für den gesamten Kanton aktuellste?
+108,Kehrichtmengen,,several localities,"Brütten, Dürnten und Buch a.I.",span,"[2010, 2016]",von 2010 bis 2016,,"Wie viel Kehrichtmengen hat  Brütten, Dürnten und Buch a.I. von 2010 bis 2016 ?"
+109,Anteil GK F,,several localities,Boppelsen,span,"[2015, 2017]",von 2015 bis 2017,,Was ist der Anteil von Anteil GK F  Boppelsen von 2015 bis 2017?
+110,Verkäufe EFH,,one level,pro Bezirk,aktuellste,2019,aktuellste,,Wie viel Verkäufe EFH hat  pro Bezirk aktuellste ?
+111,Landwirtschaftsbetriebe,,several localities,"Flurlingen, Boppelsen und Dänikon",aktuellste,2019,aktuellste,,"Wie viel Landwirtschaftsbetriebe hat  Flurlingen, Boppelsen und Dänikon aktuellste ?"
+112,Nettoaufwand Umweltschutz und Raumordnung,,one locality,in Egg,span,"[1993, 2008]",von 1993 bis 2008,,Wie viel Nettoaufwand Umweltschutz und Raumordnung hat  in Egg von 1993 bis 2008 ?
+113,Anteil EFH am Wohnungsbestand,,one level,pro Gemeinde,aktuellste,2019,aktuellste,,Was ist der Anteil von Anteil EFH am Wohnungsbestand  pro Gemeinde aktuellste?
+114,Anteil GK A,,one locality,in Seegräben,älteste,2015,älteste,,Was ist der Anteil von Anteil GK A  in Seegräben älteste?
+115,Bevölkerung: katholisch,,several localities,Bevölkerung und Soziales,year,2002,in 1995,,Wie viel Bevölkerung: katholisch hat  Bevölkerung und Soziales in 1995 ?
+116,Finanzvermögen,,several localities,"Stammheim, Region Oberland und Illnau-Effretikon (bis 2015)",aktuellste,2019,aktuellste,,"Wie viel Finanzvermögen hat  Stammheim, Region Oberland und IllnauEffretikon bis 2015 aktuellste ?"
+117,Katholische Kirchensteuerpflichtige,,several localities,Bertschikon (bis 2013),aktuellste,2019,aktuellste,,Wie viel Katholische Kirchensteuerpflichtige hat  Bertschikon bis 2013 aktuellste ?
+118,Hotelbetten,,one level,für alle Gemeinden,älteste,1990,älteste,,Wie viel Hotelbetten hat  für alle Gemeinden älteste ?
+119,Fremdkapital,,several localities,Waltalingen (bis 2018) und Lindau,year,1994,in 2019,,Wie viel Fremdkapital hat  Waltalingen bis 2018 und Lindau in 2019 ?
+120,Ø steuerbares Vermögen natürliche Pers.,,one level,pro Gemeinde,älteste,1990,älteste,,Wie viel Ø steuerbares Vermögen natürliche Pers. hat  pro Gemeinde älteste ?
+121,Neuzulassungen Benzinmotor,,one level,für alle Bezirke,year,2005,in 2020,,Was ist der Anteil von Neuzulassungen Benzinmotor  für alle Bezirke in 2020?
+122,Bevölkerung: reformiert,,one level,auf Bezirksebene,älteste,1990,älteste,,Wie viel Bevölkerung: reformiert hat  auf Bezirksebene älteste ?
+123,Landwirtschaftliche Nutzfläche,,one locality,in Rüti,älteste,1985,älteste,,Wie viel Landwirtschaftliche Nutzfläche hat  in Rüti älteste ?
+124,Wegzüge,,one locality,in Adlikon,span,"[1991, 1999]",von 1991 bis 1999,,Wie viel Wegzüge hat  in Adlikon von 1991 bis 1999 ?
+125,Bevölkerung: Anteil 014Jährige,,one level,im Kanton Zürich,älteste,1998,älteste,,Was ist der Anteil von Bevölkerung: Anteil 014Jährige  im Kanton Zürich älteste?
+126,Bevölkerung: Anteil 2039Jährige,,one level,pro Gemeinde,aktuellste,2020,aktuellste,,Was ist der Anteil von Bevölkerung: Anteil 2039Jährige  pro Gemeinde aktuellste?
+127,Bevölkerung,,several localities,"Mönchaltorf, Meilen und Region Glattal",aktuellste,2020,aktuellste,,"Wie viel Bevölkerung hat  Mönchaltorf, Meilen und Region Glattal aktuellste ?"
+128,Gemeindebeitrag an ZVV,,several localities,"Buchs, Bezirk Hinwil und Nürensdorf",year,2017,in 2008,,"Wie viel Gemeindebeitrag an ZVV hat  Buchs, Bezirk Hinwil und Nürensdorf in 2008 ?"
+129,Beschäftigte im Primärsektor,,one level,im Kanton Zürich,year,2014,in 2017,,Wie viel Beschäftigte im Primärsektor hat  im Kanton Zürich in 2017 ?
+130,Total Beschäftigte,,one level,auf Gemeindeebene,year,2011,in 2016,,Wie viel Total Beschäftigte hat  auf Gemeindeebene in 2016 ?
+131,Nettoaufwand soziale Sicherheit,,one level,pro Gemeinde,aktuellste,2019,aktuellste,,Wie viel Nettoaufwand soziale Sicherheit hat  pro Gemeinde aktuellste ?
+132,Selbstfinanzierungsanteil,,several localities,"Hagenbuch, Trüllikon und Unterstammheim (bis 2018)",älteste,1990,älteste,,"Was ist der Anteil von Selbstfinanzierungsanteil  Hagenbuch, Trüllikon und Unterstammheim bis 2018 älteste?"
+133,Bauinv. EFH 5 Jahre,,one locality,in Schlieren,aktuellste,2018,aktuellste,,Wie viel Bauinv. EFH 5 Jahre hat  in Schlieren aktuellste ?
+134,Bauzonen nicht überbaut,,several localities,Maschwanden und Russikon,älteste,1996,älteste,,Wie viel Bauzonen nicht überbaut hat  Maschwanden und Russikon älteste ?
+135,Bauzonen überbaut pro Kopf,,several localities,"Schönenberg (bis 2018), Dübendorf und Hinwil",year,2008,in 2004,,"Wie viel Bauzonen überbaut pro Kopf hat  Schönenberg bis 2018, Dübendorf und Hinwil in 2004 ?"
+136,Arbeitsstätten im Primärsektor,,one locality,in Dorf,year,2015,in 2011,,Wie viel Arbeitsstätten im Primärsektor hat  in Dorf in 2011 ?
+137,VZÄ im Tertiärsektor,,several localities,Aeugst a.A.,älteste,2011,älteste,,Wie viel VZÄ im Tertiärsektor hat  Aeugst a.A. älteste ?
+138,Privathaushalte Total,,one locality,in Schönenberg (bis 2018),span,"[1990, 2014]",von 1990 bis 2014,,Wie viel Privathaushalte Total hat  in Schönenberg bis 2018 von 1990 bis 2014 ?
+139,Steuerb. Vermögen natürl. Pers. Median,,one locality,in Illnau-Effretikon,aktuellste,2017,aktuellste,,Wie viel Steuerb. Vermögen natürl. Pers. Median hat  in IllnauEffretikon aktuellste ?
+140,Anteil Waldfläche,,one locality,in Kloten,year,1997,in 2009,,Was ist der Anteil von Anteil Waldfläche  in Kloten in 2009?
+141,Anteil unproduktive Fläche,,one level,im Kanton Zürich,span,"[1985, 1997]",von 1985 bis 1997,,Was ist der Anteil von Anteil unproduktive Fläche  im Kanton Zürich von 1985 bis 1997?
+142,NRW Wähleranteil SVP,,one level,auf Bezirksebene,span,"[1991, 2007]",von 1991 bis 2007,,Was ist der Anteil von NRW Wähleranteil SVP  auf Bezirksebene von 1991 bis 2007?
+143,KRW Wähleranteil GP,,one level,pro Gemeinde,year,2007,in 2019,,Was ist der Anteil von KRW Wähleranteil GP  pro Gemeinde in 2019?
+144,Geb.Vol. Industrie/Lager: Anteil,,several localities,Bau und Immobilien und Bau und Immobilien,aktuellste,2019,aktuellste,,Was ist der Anteil von Geb.Vol. Industrie/Lager: Anteil  Bau und Immobilien und Bau und Immobilien aktuellste?
+145,KRW Wähleranteil BDP,,several localities,Rorbas und Hedingen,span,"[2019, 2019]",von 2019 bis 2019,,Was ist der Anteil von KRW Wähleranteil BDP  Rorbas und Hedingen von 2019 bis 2019?
+146,Nettoaufwand Bildung,,one locality,in Hütten (bis 2018),älteste,1990,älteste,,Wie viel Nettoaufwand Bildung hat  in Hütten bis 2018 älteste ?
+147,Bevölkerung: Männer,,several localities,"Bevölkerung und Soziales, Bevölkerung und Soziales und Bevölkerung und Soziales",span,"[1992, 2017]",von 1992 bis 2017,,"Wie viel Bevölkerung: Männer hat  Bevölkerung und Soziales, Bevölkerung und Soziales und Bevölkerung und Soziales von 1992 bis 2017 ?"
+148,Anteil 3Personenhaushalte,,several localities,"Elsau, Adliswil und Bäretswil",aktuellste,2019,aktuellste,,"Was ist der Anteil von Anteil 3Personenhaushalte  Elsau, Adliswil und Bäretswil aktuellste?"
+149,Anteil Vollzeitbeschäftigte Landwirtschaft,,several localities,"Benken, Volken und Region Limmattal",year,2019,in 2015,,"Was ist der Anteil von Anteil Vollzeitbeschäftigte Landwirtschaft  Benken, Volken und Region Limmattal in 2015?"
+150,KRW Wähleranteil EDU,,several localities,Dachsen,aktuellste,2019,aktuellste,,Was ist der Anteil von KRW Wähleranteil EDU  Dachsen aktuellste?
+151,Unfälle,,one level,im Kanton Zürich,year,2018,in 2011,,Wie viel Unfälle hat  im Kanton Zürich in 2011 ?
+152,Wohnungen: Anteil Eigentumsobjekte,,several localities,Bau und Immobilien und Bau und Immobilien,year,2008,in 2015,,Was ist der Anteil von Wohnungen: Anteil Eigentumsobjekte  Bau und Immobilien und Bau und Immobilien in 2015?
+153,Anteil 3 Zi.Wohnungen,,one level,auf Gemeindeebene,year,2017,in 1998,,Was ist der Anteil von Anteil 3 Zi.Wohnungen  auf Gemeindeebene in 1998?
+154,"Total geschaffene Stellen, Beschäftigte",,one locality,in Dänikon,aktuellste,2018,aktuellste,,"Wie viel Total geschaffene Stellen, Beschäftigte hat  in Dänikon aktuellste ?"
+155,Anteil GK B,,one locality,in Ottenbach,span,"[2015, 2017]",von 2015 bis 2017,,Was ist der Anteil von Anteil GK B  in Ottenbach von 2015 bis 2017?
+156,Anteil GK D,,several localities,Fehraltorf,year,2018,in 2019,,Was ist der Anteil von Anteil GK D  Fehraltorf in 2019?
+157,Nettoaufwand Volkswirtschaft,,one level,pro Gemeinde,älteste,1990,älteste,,Wie viel Nettoaufwand Volkswirtschaft hat  pro Gemeinde älteste ?
+158,Arbeitsstätten im Sekundärsektor,,several localities,Bezirk Meilen,aktuellste,2018,aktuellste,,Wie viel Arbeitsstätten im Sekundärsektor hat  Bezirk Meilen aktuellste ?
+159,Steuerb. Einkommen natürl. Pers. Median,,several localities,Buchs,span,"[2007, 2016]",von 2007 bis 2016,,Wie viel Steuerb. Einkommen natürl. Pers. Median hat  Buchs von 2007 bis 2016 ?
+160,Steuerfuss ohne Kirchen,,one level,auf Bezirksebene,year,2020,in 2018,,Was ist der Anteil von Steuerfuss ohne Kirchen  auf Bezirksebene in 2018?
+161,PWNeuzulassungen pro 1000 Einw.,,several localities,Eglisau und Bezirk Meilen,aktuellste,2020,aktuellste,,Wie viel PWNeuzulassungen pro 1000 Einw. hat  Eglisau und Bezirk Meilen aktuellste ?
+162,Steuerkraft ber. arith. Mittel 3 Jahre,,one level,im Kanton Zürich,span,"[1993, 2019]",von 1993 bis 2019,,Wie viel Steuerkraft ber. arith. Mittel 3 Jahre hat  im Kanton Zürich von 1993 bis 2019 ?
+163,Anteil Pol./Schulgem. an allg. Gemeindesteuern,,one level,pro Bezirk,älteste,1990,älteste,,Was ist der Anteil von Anteil Pol./Schulgem. an allg. Gemeindesteuern  pro Bezirk älteste?
+164,Geb.Vol. Wohnen: Zunahme,,several localities,"Bau und Immobilien, Bau und Immobilien und Bau und Immobilien",älteste,1995,älteste,,"Was ist der Anteil von Geb.Vol. Wohnen: Zunahme  Bau und Immobilien, Bau und Immobilien und Bau und Immobilien älteste?"
+165,Schweine,,one level,auf Gemeindeebene,aktuellste,2019,aktuellste,,Wie viel Schweine hat  auf Gemeindeebene aktuellste ?
+166,Bevölkerungsdichte,,several localities,Schlieren,aktuellste,2020,aktuellste,,Wie viel Bevölkerungsdichte hat  Schlieren aktuellste ?
+167,Wegzüge,,one locality,in Wasterkingen,aktuellste,2019,aktuellste,,Was ist der Anteil von Wegzüge  in Wasterkingen aktuellste?
+168,Geb.Vol. Landwirtschaft: Anteil,,one level,auf Bezirksebene,aktuellste,2019,aktuellste,,Was ist der Anteil von Geb.Vol. Landwirtschaft: Anteil  auf Bezirksebene aktuellste?
+169,Bevölkerung: Anteil 1519Jährige,,one level,für alle Bezirke,year,2006,in 2017,,Was ist der Anteil von Bevölkerung: Anteil 1519Jährige  für alle Bezirke in 2017?
+170,Geb.Vol. Landwirtschaft: Zunahme,,one locality,in Bau und Immobilien,älteste,1995,älteste,,Was ist der Anteil von Geb.Vol. Landwirtschaft: Zunahme  in Bau und Immobilien älteste?
+171,Erwerb des Schweizer Bürgerrechts,,several localities,Freienstein-Teufen und Region Weinland,älteste,1990,älteste,,Wie viel Erwerb des Schweizer Bürgerrechts hat  FreiensteinTeufen und Region Weinland älteste ?
+172,NRW Wähleranteil EVP,,several localities,Bonstetten und Wald,span,"[1991, 2019]",von 1991 bis 2019,,Was ist der Anteil von NRW Wähleranteil EVP  Bonstetten und Wald von 1991 bis 2019?
+173,Verkäufe von unbebautem Land,,several localities,"Region Zürich, Ossingen und Unterengstringen",span,"[2010, 2013]",von 2010 bis 2013,,"Wie viel Verkäufe von unbebautem Land hat  Region Zürich, Ossingen und Unterengstringen von 2010 bis 2013 ?"
+174,Beschäftigte im Tertiärsektor,,several localities,"Nürensdorf, Thalheim a.d.Th. und Horgen",älteste,2011,älteste,,"Wie viel Beschäftigte im Tertiärsektor hat  Nürensdorf, Thalheim a.d.Th. und Horgen älteste ?"
+175,Schül. Kindergarten,,one level,auf Bezirksebene,year,2000,in 2016,,Wie viel Schül. Kindergarten hat  auf Bezirksebene in 2016 ?
+176,15Jahresverbrauch,,several localities,"Maschwanden, Knonau und Schönenberg (bis 2018)",year,2006,in 1998,,"Was ist der Anteil von 15Jahresverbrauch  Maschwanden, Knonau und Schönenberg bis 2018 in 1998?"
+177,Bauinv. Industr./Lager 5 Jahre,,several localities,"Winkel, Dänikon und Henggart",aktuellste,2018,aktuellste,,"Wie viel Bauinv. Industr./Lager 5 Jahre hat  Winkel, Dänikon und Henggart aktuellste ?"
+178,"Bauinv. Spital, Kultur usw. 5 J.",,one level,auf Gemeindeebene,aktuellste,2018,aktuellste,,"Wie viel Bauinv. Spital, Kultur usw. 5 J. hat  auf Gemeindeebene aktuellste ?"
+179,Bauinvestitionen,,one locality,in Meilen,year,2011,in 2013,,Wie viel Bauinvestitionen hat  in Meilen in 2013 ?
+180,Schül. Sekundarstufe I,,one level,für alle Gemeinden,span,"[2000, 2011]",von 2000 bis 2011,,Wie viel Schül. Sekundarstufe I hat  für alle Gemeinden von 2000 bis 2011 ?
+181,Schül. Berufsschule,,one level,für alle Gemeinden,span,"[2001, 2019]",von 2001 bis 2019,,Wie viel Schül. Berufsschule hat  für alle Gemeinden von 2001 bis 2019 ?
+182,Kleine Betriebe 1049 VZÄ,,one level,für alle Gemeinden,span,"[2011, 2017]",von 2011 bis 2017,,Wie viel Kleine Betriebe 1049 VZÄ hat  für alle Gemeinden von 2011 bis 2017 ?
+183,NRW Wähleranteil CVP,,one level,für den gesamten Kanton,aktuellste,2019,aktuellste,,Was ist der Anteil von NRW Wähleranteil CVP  für den gesamten Kanton aktuellste?
+184,Verkäufe Stockwerkeigentum,,one locality,in Horgen (bis 2017),aktuellste,2019,aktuellste,,Wie viel Verkäufe Stockwerkeigentum hat  in Horgen bis 2017 aktuellste ?
+185,NRW Wähleranteil EDU,,one locality,in Bachenbülach,älteste,1991,älteste,,Was ist der Anteil von NRW Wähleranteil EDU  in Bachenbülach älteste?
+186,NRW Wähleranteil AL,,one locality,in Trüllikon,year,1999,in 2003,,Was ist der Anteil von NRW Wähleranteil AL  in Trüllikon in 2003?
+187,Wohnungsbestand,,one locality,in Wettswil a.A.,span,"[2002, 2003]",von 2002 bis 2003,,Wie viel Wohnungsbestand hat  in Wettswil a.A. von 2002 bis 2003 ?
+188,Sozialhilfequote,,several localities,"Fällanden, Stäfa und Zell",aktuellste,2019,aktuellste,,"Was ist der Anteil von Sozialhilfequote  Fällanden, Stäfa und Zell aktuellste?"
+189,Scheidungen,,one locality,in Gossau,year,2018,in 2012,,Wie viel Scheidungen hat  in Gossau in 2012 ?
+190,1Personenhaushalte,,one level,pro Gemeinde,span,"[1980, 2013]",von 1980 bis 2013,,Wie viel 1Personenhaushalte hat  pro Gemeinde von 1980 bis 2013 ?
+191,Anteil ohne GK,,several localities,Wangen-Brüttisellen und Dielsdorf,älteste,2015,älteste,,Was ist der Anteil von Anteil ohne GK  WangenBrüttisellen und Dielsdorf älteste?
+192,Nettovermögen,,several localities,Bäretswil und Fehraltorf,span,"[2010, 2011]",von 2010 bis 2011,,Wie viel Nettovermögen hat  Bäretswil und Fehraltorf von 2010 bis 2011 ?
+193,Steuerertrag Total,,one level,im Kanton Zürich,year,2012,in 2005,,Wie viel Steuerertrag Total hat  im Kanton Zürich in 2005 ?
+194,Geb.Vol. Nebengebäude: Anteil,,one locality,in Bau und Immobilien,year,2013,in 2018,,Was ist der Anteil von Geb.Vol. Nebengebäude: Anteil  in Bau und Immobilien in 2018?
+195,Anteil Grundsteuern am Steuerertrag,,one locality,in Dachsen,älteste,1990,älteste,,Was ist der Anteil von Anteil Grundsteuern am Steuerertrag  in Dachsen älteste?
+196,Total ordentlich Besteuerte,,one locality,in Fehraltorf,älteste,1990,älteste,,Wie viel Total ordentlich Besteuerte hat  in Fehraltorf älteste ?
+197,Nur an der Quelle besteuerte Quellensteuerpfl.,,one level,im Kanton Zürich,aktuellste,2019,aktuellste,,Wie viel Nur an der Quelle besteuerte Quellensteuerpfl. hat  im Kanton Zürich aktuellste ?
+198,Christkatholische Kirchensteuerpflichtige,,several localities,Region Oberland und Uster,älteste,1990,älteste,,Wie viel Christkatholische Kirchensteuerpflichtige hat  Region Oberland und Uster älteste ?
+199,Wahlbeteiligung Nationalrat,,several localities,"Rümlang, Oberrieden und Stallikon",aktuellste,2019,aktuellste,,"Was ist der Anteil von Wahlbeteiligung Nationalrat  Rümlang, Oberrieden und Stallikon aktuellste?"
+200,Bestand Dieselmotor,,one level,für den gesamten Kanton,älteste,2002,älteste,,Was ist der Anteil von Bestand Dieselmotor  für den gesamten Kanton älteste?
+201,Nettoinvestitionen,,several localities,Wetzikon und Humlikon,aktuellste,2019,aktuellste,,Wie viel Nettoinvestitionen hat  Wetzikon und Humlikon aktuellste ?
+202,Steuerkraft,,several localities,Adlikon und Horgen,span,"[1997, 2019]",von 1997 bis 2019,,Wie viel Steuerkraft hat  Adlikon und Horgen von 1997 bis 2019 ?
+203,Reingewinn juristische Personen,,several localities,Adliswil,älteste,1990,älteste,,Wie viel Reingewinn juristische Personen hat  Adliswil älteste ?
+204,Bevölkerungszunahme 1 Jahr,,one level,pro Gemeinde,span,"[1983, 1988]",von 1983 bis 1988,,Wie viel Bevölkerungszunahme 1 Jahr hat  pro Gemeinde von 1983 bis 1988 ?
+205,Gemeindebeitrag an ZVV,,several localities,Mettmenstetten,aktuellste,2019,aktuellste,,Wie viel Gemeindebeitrag an ZVV hat  Mettmenstetten aktuellste ?
+206,Verkäufe MFH,,one locality,in Hedingen,älteste,1980,älteste,,Wie viel Verkäufe MFH hat  in Hedingen älteste ?
+207,Arbeitslose,,one locality,in Seuzach,älteste,1991,älteste,,Wie viel Arbeitslose hat  in Seuzach älteste ?
+208,Ausländeranteil,,one level,für den gesamten Kanton,span,"[1987, 2012]",von 1987 bis 2012,,Was ist der Anteil von Ausländeranteil  für den gesamten Kanton von 1987 bis 2012?
+209,Bevölkerung: Frauenanteil,,one level,für alle Gemeinden,älteste,1991,älteste,,Was ist der Anteil von Bevölkerung: Frauenanteil  für alle Gemeinden älteste?
+210,"ÖVWege Quell, Ziel und Binnenverkehr",,one level,auf Bezirksebene,aktuellste,2018,aktuellste,,"Wie viel ÖVWege Quell, Ziel und Binnenverkehr hat  auf Bezirksebene aktuellste ?"
+211,KRW Wähleranteil EVP,,several localities,"Eglisau, Wil und Zell",älteste,1995,älteste,,"Was ist der Anteil von KRW Wähleranteil EVP  Eglisau, Wil und Zell älteste?"
+212,Aerzte,,several localities,"Region Pfannenstiel, Lindau und Grüningen",year,2018,in 1998,,"Wie viel Aerzte hat  Region Pfannenstiel, Lindau und Grüningen in 1998 ?"
+213,Steuerkraft pro Kopf,,one level,für den gesamten Kanton,älteste,1990,älteste,,Wie viel Steuerkraft pro Kopf hat  für den gesamten Kanton älteste ?
+214,Ø Reingewinn steuerpfl. jur. Pers.,,one level,auf Bezirksebene,aktuellste,2019,aktuellste,,Wie viel Ø Reingewinn steuerpfl. jur. Pers. hat  auf Bezirksebene aktuellste ?
+215,Motorräder pro 1000 Einwohner,,several localities,"Feuerthalen, Regensberg und Schöfflisdorf",year,2011,in 2009,,"Wie viel Motorräder pro 1000 Einwohner hat  Feuerthalen, Regensberg und Schöfflisdorf in 2009 ?"
+216,Beschäftigte im Sekundärsektor,,several localities,Andelfingen und Mönchaltorf,älteste,2011,älteste,,Wie viel Beschäftigte im Sekundärsektor hat  Andelfingen und Mönchaltorf älteste ?
+217,Nettoaufwand Gesundheit,,one locality,in Stadel,span,"[1995, 2019]",von 1995 bis 2019,,Wie viel Nettoaufwand Gesundheit hat  in Stadel von 1995 bis 2019 ?
+218,Beschäftigte im Gastgewerbe: Anteil,,several localities,Arbeit und Unternehmen und Arbeit und Unternehmen,älteste,1985,älteste,,Was ist der Anteil von Beschäftigte im Gastgewerbe: Anteil  Arbeit und Unternehmen und Arbeit und Unternehmen älteste?
+219,Bauzonen nicht überbaut,,one locality,in Region Limmattal,aktuellste,2019,aktuellste,,Was ist der Anteil von Bauzonen nicht überbaut  in Region Limmattal aktuellste?
+220,Schül. Mittelschule,,one level,auf Bezirksebene,aktuellste,2019,aktuellste,,Wie viel Schül. Mittelschule hat  auf Bezirksebene aktuellste ?
+221,Mittlere Betriebe 50249 VZÄ,,one locality,in Oetwil a.d.L.,span,"[2011, 2015]",von 2011 bis 2015,,Wie viel Mittlere Betriebe 50249 VZÄ hat  in Oetwil a.d.L. von 2011 bis 2015 ?
+222,Anteil Verkehrsfläche,,several localities,Bezirk Pfäffikon und Glattfelden,älteste,1983,älteste,,Was ist der Anteil von Anteil Verkehrsfläche  Bezirk Pfäffikon und Glattfelden älteste?
+223,Anteil Siedlungsfläche,,one locality,in Oetwil a.d.L.,älteste,1983,älteste,,Was ist der Anteil von Anteil Siedlungsfläche  in Oetwil a.d.L. älteste?
+224,KRW Wähleranteil FDP,,several localities,"Oberrieden, Oberglatt und Kloten",span,"[1999, 2007]",von 1999 bis 2007,,"Was ist der Anteil von KRW Wähleranteil FDP  Oberrieden, Oberglatt und Kloten von 1999 bis 2007?"
+225,Hotelbetten pro 1000 Einwohner,,one locality,in Stadel,year,2002,in 2008,,Wie viel Hotelbetten pro 1000 Einwohner hat  in Stadel in 2008 ?
+226,Bevölkerung: Männeranteil,,one locality,in Bevölkerung und Soziales,year,2004,in 1992,,Was ist der Anteil von Bevölkerung: Männeranteil  in Bevölkerung und Soziales in 1992?
+227,KRW Wähleranteil SP,,one level,pro Bezirk,year,2007,in 2015,,Was ist der Anteil von KRW Wähleranteil SP  pro Bezirk in 2015?
+228,Arbeitsstätten im Tertiärsektor,,one level,für den gesamten Kanton,span,"[2012, 2013]",von 2012 bis 2013,,Wie viel Arbeitsstätten im Tertiärsektor hat  für den gesamten Kanton von 2012 bis 2013 ?
+229,Steuerkraft arith. Mittel 3 Jahre,,several localities,Obfelden,year,2013,in 2002,,Wie viel Steuerkraft arith. Mittel 3 Jahre hat  Obfelden in 2002 ?
+230,Steuerertrag von natürlichen Personen,,one locality,in Ottenbach,span,"[1993, 2008]",von 1993 bis 2008,,Wie viel Steuerertrag von natürlichen Personen hat  in Ottenbach von 1993 bis 2008 ?
+231,Bevölkerung: übrige/andere/ohne Konfession,,several localities,Bevölkerung und Soziales und Bevölkerung und Soziales,älteste,1990,älteste,,Wie viel Bevölkerung: übrige/andere/ohne Konfession hat  Bevölkerung und Soziales und Bevölkerung und Soziales älteste ?
+232,Bauzonen überbaut,,several localities,"Uster, Rüschlikon und Rheinau",span,"[2008, 2013]",von 2008 bis 2013,,"Wie viel Bauzonen überbaut hat  Uster, Rüschlikon und Rheinau von 2008 bis 2013 ?"
+233,Bevölkerungszunahme 5 Jahre,,several localities,"Kappel a.A., Wald und Regensdorf",span,"[1983, 1988]",von 1983 bis 1988,,"Was ist der Anteil von Bevölkerungszunahme 5 Jahre  Kappel a.A., Wald und Regensdorf von 1983 bis 1988?"
+234,Aerzte,,one locality,in Hochfelden,aktuellste,2018,aktuellste,,Wie viel Aerzte hat  in Hochfelden aktuellste ?
+235,Neu gegründete Unternehmen Total,,one level,für den gesamten Kanton,span,"[2013, 2014]",von 2013 bis 2014,,Wie viel Neu gegründete Unternehmen Total hat  für den gesamten Kanton von 2013 bis 2014 ?
+236,Nettoaufwand Verkehr und Nachrichtenübermittlung,,one locality,in Dinhard,year,2010,in 1993,,Wie viel Nettoaufwand Verkehr und Nachrichtenübermittlung hat  in Dinhard in 1993 ?
+237,Personalsteuerpflichtige,,several localities,Steinmaur und Wasterkingen,year,1990,in 2018,,Wie viel Personalsteuerpflichtige hat  Steinmaur und Wasterkingen in 2018 ?
+238,Total Quellensteuerpflichtige,,several localities,Bachenbülach und Meilen,span,"[1992, 2012]",von 1992 bis 2012,,Wie viel Total Quellensteuerpflichtige hat  Bachenbülach und Meilen von 1992 bis 2012 ?
+239,Hotelbetten pro Hotel,,one locality,in Illnau-Effretikon,aktuellste,2019,aktuellste,,Wie viel Hotelbetten pro Hotel hat  in IllnauEffretikon aktuellste ?
+240,Neuzulassungen  Elektromotor,,one locality,in Bezirk Dietikon,aktuellste,2020,aktuellste,,Was ist der Anteil von Neuzulassungen  Elektromotor  in Bezirk Dietikon aktuellste?
+241,MotorradNeuzulassungen,,several localities,"Kilchberg, Bezirk Meilen und Bachs",älteste,2002,älteste,,"Wie viel MotorradNeuzulassungen hat  Kilchberg, Bezirk Meilen und Bachs älteste ?"
+242,Investitionsanteil,,one level,für alle Gemeinden,span,"[2004, 2014]",von 2004 bis 2014,,Was ist der Anteil von Investitionsanteil  für alle Gemeinden von 2004 bis 2014?
+243,Eigenkapital steuerpfl. jur. Pers.,,one locality,in Bezirk Hinwil,älteste,1990,älteste,,Wie viel Eigenkapital steuerpfl. jur. Pers. hat  in Bezirk Hinwil älteste ?
+244,Steuerkraft berichtigt,,several localities,Wila,aktuellste,2019,aktuellste,,Wie viel Steuerkraft berichtigt hat  Wila aktuellste ?
+245,Zinsbelastungsanteil,,one locality,in Andelfingen,span,"[1998, 2012]",von 1998 bis 2012,,Was ist der Anteil von Zinsbelastungsanteil  in Andelfingen von 1998 bis 2012?
+246,Baulandpreis Modell Median,,one locality,in Geroldswil,year,1983,in 2013,,Wie viel Baulandpreis Modell Median hat  in Geroldswil in 2013 ?
+247,4Personenhaushalte,,one level,pro Gemeinde,älteste,1970,älteste,,Wie viel 4Personenhaushalte hat  pro Gemeinde älteste ?
+248,Bevölkerungszunahme 1 Jahr,,several localities,"Hütten (bis 2018), Weiach und Zollikon",span,"[2002, 2010]",von 2002 bis 2010,,"Was ist der Anteil von Bevölkerungszunahme 1 Jahr  Hütten bis 2018, Weiach und Zollikon von 2002 bis 2010?"
+249,Geb.Vol. Industrie/Lager: Zunahme,,one level,für alle Gemeinden,span,"[1995, 2001]",von 1995 bis 2001,,Was ist der Anteil von Geb.Vol. Industrie/Lager: Zunahme  für alle Gemeinden von 1995 bis 2001?
+250,Geb.Vol. Infrastruktur: Zunahme,,one locality,in Bau und Immobilien,aktuellste,2019,aktuellste,,Was ist der Anteil von Geb.Vol. Infrastruktur: Zunahme  in Bau und Immobilien aktuellste?
+251,Sterberate,,one locality,in Region Oberland,älteste,1990,älteste,,Wie viel Sterberate hat  in Region Oberland älteste ?
+252,Altpapiermengen,,one locality,in Stadel,älteste,1996,älteste,,Wie viel Altpapiermengen hat  in Stadel älteste ?
+253,Nettoaufwand allgemeine Verwaltung,,one locality,in Hedingen,aktuellste,2019,aktuellste,,Wie viel Nettoaufwand allgemeine Verwaltung hat  in Hedingen aktuellste ?
+254,Motorräder,,one locality,in Wädenswil (bis 2018),aktuellste,2020,aktuellste,,Wie viel Motorräder hat  in Wädenswil bis 2018 aktuellste ?
+255,Personenwagen pro 1000 Einwohner,,several localities,"Grüningen, Wangen-Brüttisellen und Mettmenstetten",span,"[2002, 2005]",von 2002 bis 2005,,"Wie viel Personenwagen pro 1000 Einwohner hat  Grüningen, WangenBrüttisellen und Mettmenstetten von 2002 bis 2005 ?"
+256,Grosse Betriebe 250+ VZÄ,,one locality,in Pfungen,älteste,2011,älteste,,Wie viel Grosse Betriebe 250+ VZÄ hat  in Pfungen älteste ?
+257,VZÄ im Sekundärsektor,,one level,im Kanton Zürich,span,"[2013, 2017]",von 2013 bis 2017,,Wie viel VZÄ im Sekundärsektor hat  im Kanton Zürich von 2013 bis 2017 ?
+258,15Jahresverbrauch,,one locality,in Rafz,span,"[2001, 2010]",von 2001 bis 2010,,Wie viel 15Jahresverbrauch hat  in Rafz von 2001 bis 2010 ?
+259,Bauinv. Ver/Entsorg. 5 Jahre,,one locality,in Zürich - ganzer Kanton,year,1999,in 2018,,Wie viel Bauinv. Ver/Entsorg. 5 Jahre hat  in Zürich  ganzer Kanton in 2018 ?
+260,Bauinv. Wohnen,,one level,auf Gemeindeebene,span,"[1995, 2013]",von 1995 bis 2013,,Wie viel Bauinv. Wohnen hat  auf Gemeindeebene von 1995 bis 2013 ?
+261,Neuerstellte EFH,,one locality,in Affoltern a.A.,span,"[2003, 2015]",von 2003 bis 2015,,Wie viel Neuerstellte EFH hat  in Affoltern a.A. von 2003 bis 2015 ?
+262,Restaurants pro 1000 Einwohner,,several localities,"Illnau-Effretikon (bis 2015), Stäfa und Bassersdorf",aktuellste,2018,aktuellste,,"Wie viel Restaurants pro 1000 Einwohner hat  IllnauEffretikon bis 2015, Stäfa und Bassersdorf aktuellste ?"
+263,Mikrobetriebe 09 VZÄ,,several localities,Kappel a.A.,älteste,2011,älteste,,Wie viel Mikrobetriebe 09 VZÄ hat  Kappel a.A. älteste ?
+264,Steuerpflichtige juristische Personen,,several localities,Region Knonaueramt und Richterswil,year,2000,in 2019,,Wie viel Steuerpflichtige juristische Personen hat  Region Knonaueramt und Richterswil in 2019 ?
+265,Wasserverbrauch pro Tag und Kopf,,one locality,in Horgen (bis 2017),span,"[2011, 2012]",von 2011 bis 2012,,Wie viel Wasserverbrauch pro Tag und Kopf hat  in Horgen bis 2017 von 2011 bis 2012 ?
+266,Anteil Landwirtschaftsfläche,,several localities,Wiesendangen,älteste,1983,älteste,,Was ist der Anteil von Anteil Landwirtschaftsfläche  Wiesendangen älteste?
+267,NRW Wähleranteil GLP,,several localities,Rafz und Humlikon,aktuellste,2019,aktuellste,,Was ist der Anteil von NRW Wähleranteil GLP  Rafz und Humlikon aktuellste?
+268,Ø steuerbares Einkommen natürliche Pers.,,one level,auf Bezirksebene,älteste,1990,älteste,,Wie viel Ø steuerbares Einkommen natürliche Pers. hat  auf Bezirksebene älteste ?
+269,KRW Wähleranteil GLP,,one locality,in Urdorf,älteste,2007,älteste,,Was ist der Anteil von KRW Wähleranteil GLP  in Urdorf älteste?
+270,NRW Wähleranteil SD,,one locality,in Herrliberg,älteste,1991,älteste,,Was ist der Anteil von NRW Wähleranteil SD  in Herrliberg älteste?
+271,Bevölkerung: Anteil 80 u.m.Jährige,,one level,pro Bezirk,aktuellste,2020,aktuellste,,Was ist der Anteil von Bevölkerung: Anteil 80 u.m.Jährige  pro Bezirk aktuellste?
+272,Heiraten,,several localities,Zürich,aktuellste,2019,aktuellste,,Wie viel Heiraten hat  Zürich aktuellste ?
+273,Bezügerquote der bedarfsabh. Sozialleistungen,,several localities,Stadel,älteste,2010,älteste,,Was ist der Anteil von Bezügerquote der bedarfsabh. Sozialleistungen  Stadel älteste?
+274,Steuerfuss juristische Personen,,one locality,in Wetzikon,span,"[2001, 2004]",von 2001 bis 2004,,Was ist der Anteil von Steuerfuss juristische Personen  in Wetzikon von 2001 bis 2004?
+275,Anteil Teilzeitbeschäftigte Landwirtschaft,,several localities,Schlatt und Dättlikon,aktuellste,2019,aktuellste,,Was ist der Anteil von Anteil Teilzeitbeschäftigte Landwirtschaft  Schlatt und Dättlikon aktuellste?
+276,Nettoaufwand öffentliche Ordnung und Sicherheit,,several localities,Oberweningen und Affoltern a.A.,älteste,1990,älteste,,Wie viel Nettoaufwand öffentliche Ordnung und Sicherheit hat  Oberweningen und Affoltern a.A. älteste ?
+277,EFHBestand,,one level,auf Gemeindeebene,älteste,1980,älteste,,Wie viel EFHBestand hat  auf Gemeindeebene älteste ?
+278,Anteil 5 Zi.Wohnungen,,several localities,Wila,aktuellste,2019,aktuellste,,Was ist der Anteil von Anteil 5 Zi.Wohnungen  Wila aktuellste?
+279,Anteil GK E,,several localities,Wallisellen und Urdorf,aktuellste,2019,aktuellste,,Was ist der Anteil von Anteil GK E  Wallisellen und Urdorf aktuellste?
+280,Zuzüge,,one locality,in Bezirk Uster,year,2009,in 1991,,Wie viel Zuzüge hat  in Bezirk Uster in 1991 ?
+281,Bruttoinvestitionen,,one level,pro Gemeinde,year,1993,in 2014,,Wie viel Bruttoinvestitionen hat  pro Gemeinde in 2014 ?
+282,Geb.Vol. Wohnen: Anteil,,one level,auf Gemeindeebene,aktuellste,2019,aktuellste,,Was ist der Anteil von Geb.Vol. Wohnen: Anteil  auf Gemeindeebene aktuellste?
+283,ZLBezügerquote der Personen ab 65 Jahren,,several localities,Dättlikon und Dinhard,span,"[2013, 2017]",von 2013 bis 2017,,Was ist der Anteil von ZLBezügerquote der Personen ab 65 Jahren  Dättlikon und Dinhard von 2013 bis 2017?
+284,Bauzonen,,one level,auf Gemeindeebene,year,2007,in 2014,,Wie viel Bauzonen hat  auf Gemeindeebene in 2014 ?
+285,Geb.Vol. Infrastruktur: Anteil,,one level,für den gesamten Kanton,span,"[2012, 2017]",von 2012 bis 2017,,Was ist der Anteil von Geb.Vol. Infrastruktur: Anteil  für den gesamten Kanton von 2012 bis 2017?
+286,Bestand Elektromotor,,one locality,in Humlikon,span,"[2004, 2014]",von 2004 bis 2014,,Was ist der Anteil von Bestand Elektromotor  in Humlikon von 2004 bis 2014?
+287,Weg zur nächsten Haltestelle,,several localities,Region Knonaueramt,älteste,2004,älteste,,Wie viel Weg zur nächsten Haltestelle hat  Region Knonaueramt älteste ?
+288,Zuzüge,,one level,für alle Bezirke,year,2003,in 2015,,Was ist der Anteil von Zuzüge  für alle Bezirke in 2015?
+289,Selbstfinanzierungsgrad,,one locality,in Rüschlikon,älteste,1990,älteste,,Was ist der Anteil von Selbstfinanzierungsgrad  in Rüschlikon älteste?
+290,Anteil Kirchgemeinden an allg. Gemeindesteuern,,several localities,Stallikon,year,1994,in 2009,,Was ist der Anteil von Anteil Kirchgemeinden an allg. Gemeindesteuern  Stallikon in 2009?
+291,Hauptberufliche Landwirtschaftsbetriebe,,several localities,"Fällanden, Uster und Hüttikon",span,"[2012, 2016]",von 2012 bis 2016,,"Wie viel Hauptberufliche Landwirtschaftsbetriebe hat  Fällanden, Uster und Hüttikon von 2012 bis 2016 ?"
+292,Gebäudevolumen: Zunahme,,one locality,in Bau und Immobilien,span,"[2005, 2010]",von 2005 bis 2010,,Was ist der Anteil von Gebäudevolumen: Zunahme  in Bau und Immobilien von 2005 bis 2010?
+293,MIVAnteil Modal Split,,several localities,Elgg,älteste,2013,älteste,,Was ist der Anteil von MIVAnteil Modal Split  Elgg älteste?
+294,Kapitaldienstanteil,,several localities,"Niederhasli, Zumikon und Flurlingen",älteste,1990,älteste,,"Was ist der Anteil von Kapitaldienstanteil  Niederhasli, Zumikon und Flurlingen älteste?"
+295,Schül. Sekundarstufe II,,one locality,in Steinmaur,span,"[2006, 2016]",von 2006 bis 2016,,Wie viel Schül. Sekundarstufe II hat  in Steinmaur von 2006 bis 2016 ?
+296,Neuerstellte MFHWohnungen,,one locality,in Unterstammheim (bis 2018),span,"[1995, 1998]",von 1995 bis 1998,,Wie viel Neuerstellte MFHWohnungen hat  in Unterstammheim bis 2018 von 1995 bis 1998 ?
+297,Fläche,,one level,im Kanton Zürich,aktuellste,2018,aktuellste,,Wie viel Fläche hat  im Kanton Zürich aktuellste ?
+298,Altersquotient,,one level,für den gesamten Kanton,aktuellste,2020,aktuellste,,Was ist der Anteil von Altersquotient  für den gesamten Kanton aktuellste?
+299,Sterberate 5J.mittel,,one locality,in Wangen-Brüttisellen,älteste,1994,älteste,,Wie viel Sterberate 5J.mittel hat  in WangenBrüttisellen älteste ?
+300,Anteil 1 Zi.Wohnungen,,one locality,in Seegräben,älteste,1990,älteste,,Was ist der Anteil von Anteil 1 Zi.Wohnungen  in Seegräben älteste?
+301,Anteil 4 Zi.Wohnungen,,one locality,in Berg a.I.,älteste,1990,älteste,,Was ist der Anteil von Anteil 4 Zi.Wohnungen  in Berg a.I. älteste?
+302,Heiraten,,several localities,Boppelsen und Weisslingen,year,2001,in 2019,,Wie viel Heiraten hat  Boppelsen und Weisslingen in 2019 ?
+303,3Personenhaushalte,,one locality,in Schlieren,span,"[2012, 2016]",von 2012 bis 2016,,Wie viel 3Personenhaushalte hat  in Schlieren von 2012 bis 2016 ?
+304,Leerwohnungen Total,,one locality,in Schleinikon,aktuellste,2020,aktuellste,,Wie viel Leerwohnungen Total hat  in Schleinikon aktuellste ?
+305,Zahnärzte,,one locality,in Kappel a.A.,year,1998,in 2018,,Wie viel Zahnärzte hat  in Kappel a.A. in 2018 ?
+306,Bevölkerung: Anteil 6579Jährige,,one level,im Kanton Zürich,älteste,1998,älteste,,Was ist der Anteil von Bevölkerung: Anteil 6579Jährige  im Kanton Zürich älteste?
+307,Restaurants,,one level,im Kanton Zürich,year,1995,in 2017,,Wie viel Restaurants hat  im Kanton Zürich in 2017 ?
+308,Ausserhalb des Kt. wohnhaft Besteuerte,,one locality,in Opfikon,älteste,1990,älteste,,Wie viel Ausserhalb des Kt. wohnhaft Besteuerte hat  in Opfikon älteste ?
+309,Ordentlich und an der Quelle Besteuerte,,one level,pro Bezirk,year,2010,in 2012,,Wie viel Ordentlich und an der Quelle Besteuerte hat  pro Bezirk in 2012 ?
+310,Total Kirchensteuerpflichtige,,one locality,in Winterthur,span,"[2009, 2019]",von 2009 bis 2019,,Wie viel Total Kirchensteuerpflichtige hat  in Winterthur von 2009 bis 2019 ?
+311,PWNeuzulassungen,,several localities,"Hütten (bis 2018), Greifensee und Bezirk Andelfingen",älteste,2002,älteste,,"Wie viel PWNeuzulassungen hat  Hütten bis 2018, Greifensee und Bezirk Andelfingen älteste ?"
+312,Bestand Hybridantrieb,,one level,für alle Bezirke,älteste,2002,älteste,,Was ist der Anteil von Bestand Hybridantrieb  für alle Bezirke älteste?
