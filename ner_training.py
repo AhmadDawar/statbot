@@ -45,5 +45,7 @@ def load_retrieval_data(infile):
 if __name__ == "__main__":
     dataset = load_training_data('input/tagged_sentences_latest.json')
     pprint(dataset[:10])
-
+    #{'GRAN': 1975, 'LEVEL_LOC': 265, 'SINGLE_LOC': 1035, 'TIME': 1363}
+    
     retrieval_data = load_retrieval_data('input/info_retrieval_data_latest.csv')
+    
