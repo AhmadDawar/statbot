@@ -23,6 +23,7 @@ def increment_revision_counters(entity_counter, entities):
             entity_counter[label] += 1
         else:
             entity_counter[label] = 1
+    return entity_counter
 
 def load_training_data(file):
     with open(file) as json_file:
@@ -32,7 +33,7 @@ def load_training_data(file):
     dataset_dict, entity_counter = dict(), dict()
     for sentence in sentences:
         entities = sentence[1]["entities"]
-        increment_revision_counters(dataset_dict, entities)
+        dataset_dict = increment_revision_counters(dataset_dict, entities)
         # for entity in entities:
         #     label = entity[2]
         #     try:
