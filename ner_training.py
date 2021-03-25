@@ -53,7 +53,7 @@ def load_external_sentences(file):
     npr_df = npr_df.sample(frac=1)
     return npr_df
 
-def prepare_revision_data(sentence_count=10000, batch_size=50):
+def prepare_revision_data(sentence_count=100000, batch_size=50):
     npr_df = load_external_sentences("external/deu_news_2015_3M-sentences.txt")
 
     revision_texts = []
@@ -62,10 +62,11 @@ def prepare_revision_data(sentence_count=10000, batch_size=50):
     # convert the articles to spacy objects to better identify the sentences. Disabled unneeded components. # takes ~ 4 minutes
     for doc in tqdm(nlp.pipe(npr_df.iloc[:sentence_count,1], batch_size=batch_size, disable=["tagger", "ner"])):
         for sentence in doc.sents:
+            # some of the sentences had excessive whitespace in between words, so we're trimming that
+            revision_texts.append(" ".join(re.split("\s+", sentence.text, flags=re.UNICODE)))
+            #warum zwischen 40 und 80??
+            #if 40 < len(sentence.text) < 80:
 
-            if  40 < len(sentence.text) < 80:
-                # some of the sentences had excessive whitespace in between words, so we're trimming that
-                revision_texts.append(" ".join(re.split("\s+", sentence.text, flags=re.UNICODE)))  
 
     revisions = []
 
@@ -79,7 +80,7 @@ def prepare_revision_data(sentence_count=10000, batch_size=50):
     return revisions
 
 
-def split_revision_data(REVISION_SENTENCE_SOFT_LIMIT = 100):
+def split_revision_data(revisions, REVISION_SENTENCE_SOFT_LIMIT = 100):
     # create arrays to store the revision data
     TRAIN_REVISION_DATA = []
     TEST_REVISION_DATA = []
@@ -133,9 +134,11 @@ def train_ner(TRAIN_DATA, epochs=30):
     #central command is nlp-update
 
     ner = nlp.get_pipe("ner")
-
+    #ner.add_label("PLACE")
+    
     ner.add_label("GRAN")
-    ner.add_label("PLACE")
+    ner.add_label("LEVEL_LOC")
+    ner.add_label("SINGLE_LOC")
     ner.add_label("TIME")
 
     # get the names of the components we want to disable during training
@@ -174,30 +177,36 @@ def train_ner(TRAIN_DATA, epochs=30):
 ############################### EVALUATION ###############################
 
 def display_sentences():
-    statbot_colors = {"GRAN": "linear-gradient(90deg, #aa9cfc, #fc9ce7)",
-                  "PLACE": "linear-gradient(90deg, #ffff00, #ff8c00)",
-                  "TIME": "linear-gradient(90deg, #ba9cfc, #ac9ce7)"}
-    statbot_options = {"ents": ["PER","LOC","ORG","MISC","GRAN","PLACE", "TIME"], "colors": statbot_colors}
+    statbot_colors = {"LEVEL_LOC": "linear-gradient(90deg, #aa9cfc, #fc9ce7)",
+                  "SINGLE_LOC": "linear-gradient(90deg, #ffff00, #ff8c00)",
+                  "GRAN": "linear-gradient(90deg, #ffff00, #ff8c00)",
+                  "TIME": "linear-gradient(90deg, #aaf6b1, #99dd9f)"}
+    statbot_options = {"ents": ["PER","LOC","ORG","MISC","LEVEL_LOC","SINGLE_LOC","GRAN", "TIME"], "colors": statbot_colors}
     spacy.displacy.render(nlp("Ich heisse Christian und war heute in Zürich bei IBM im Internet."), style="ent",options=statbot_options)
-    spacy.displacy.render(nlp("Wie viele Kühe hat die Gemeinde Bülach?"), style="ent",options=statbot_options)
+    spacy.displacy.render(nlp("Wie viele Kühe hat die Gemeinde Bülach aktuell?"), style="ent",options=statbot_options)
     spacy.displacy.render(nlp("Wie hoch ist Eigenkapital auf Bezirksebene?"), style="ent",options=statbot_options)
     spacy.displacy.render(nlp("Ich brauche die Daten pro Bezirk"), style="ent",options=statbot_options)
-    spacy.displacy.render(nlp("Ich brauche die Daten für den gesamten Kanton."), style="ent",options=statbot_options)
-    spacy.displacy.render(nlp("Wie viel Bauinv. EFH 5 Jahre  hat  in Regensdorf  ?"), style="ent",options=statbot_options)
-    spacy.displacy.render(nlp("Was ist der Anteil an MIV-Anteil (Modal Split)   auf Bezirksebene ?"), style="ent",options=statbot_options)
-    spacy.displacy.render(nlp("Was ist der Anteil an Geb.Vol. Dienstleistungen: Zunahme   in Flaach ?"), style="ent",options=statbot_options)
-    spacy.displacy.render(nlp("Welches ist das Schül. Sekundarstufe II   für den gesamten Kanton ?"), style="ent",options=statbot_options)
+    spacy.displacy.render(nlp("Ich brauche die Daten für den gesamten Kanton älteste."), style="ent",options=statbot_options)
+    spacy.displacy.render(nlp("Wie viel Bauinv. EFH 5 Jahre  hat  in Regensdorf  neueste?"), style="ent",options=statbot_options)
+    spacy.displacy.render(nlp("Was ist der Anteil an MIV-Anteil (Modal Split)  älteste  auf Bezirksebene ?"), style="ent",options=statbot_options)
+    spacy.displacy.render(nlp("Was ist der Anteil an Geb.Vol. Dienstleistungen: Zunahme in Flaach in 2017 ?"), style="ent",options=statbot_options)
+    spacy.displacy.render(nlp("Welches ist das Schül. Sekundarstufe II für den gesamten Kanton von 2013 bis 2018?"), style="ent",options=statbot_options)
     spacy.displacy.render(nlp("Welche Gemeinde hat die grösste Bevölkerung?"), style="ent",options=statbot_options)
 
 
 def evaluate(TEST_STAT_DATA):
     # dictionary to hold our evaluation data
+
     stat_evaluation = {
         "GRAN": {
             "correct": 0,
             "total": 0,
         },
-        "PLACE": {
+        "LEVEL_LOC": {
+            "correct": 0,
+            "total": 0,
+        },
+        "SINGLE_LOC": {
             "correct": 0,
             "total": 0,
         },
@@ -236,7 +245,7 @@ def evaluate(TEST_STAT_DATA):
 
     stat_total_sum = 0
     stat_correct_sum = 0
-
+    print(stat_evaluation)
     for key in stat_evaluation:
         correct = stat_evaluation[key]["correct"]
         total = stat_evaluation[key]["total"]
@@ -249,16 +258,18 @@ def evaluate(TEST_STAT_DATA):
     print(f"\nTotal: {stat_correct_sum/stat_total_sum * 100:.2f}%")
 
 
-# helper function to udpate the entity_evaluation dictionary
-def update_results(entity, metric, entity_evaluation):
-    if entity not in entity_evaluation:
-        entity_evaluation[entity] = {"correct": 0, "total": 0}
-        
-    entity_evaluation[entity][metric] += 1
+
 
 def evaluate_existing_entities(TEST_REVISION_DATA):
     # dictionary which will be populated with the entities and result information
     entity_evaluation = {}
+
+    # helper function to udpate the entity_evaluation dictionary
+    def update_results(entity, metric):
+        if entity not in entity_evaluation:
+            entity_evaluation[entity] = {"correct": 0, "total": 0}
+            
+        entity_evaluation[entity][metric] += 1
 
     # same as before, see if entities from test set match what spaCy currently predicts
     for data in TEST_REVISION_DATA:
@@ -271,14 +282,14 @@ def evaluate_existing_entities(TEST_REVISION_DATA):
 
             for ent in doc.ents:
                 if ent.label_ == entity[2] and ent.text == correct_text:
-                    update_results(ent.label_, "correct", entity_evaluation)
+                    update_results(ent.label_, "correct")
                     break
 
-            update_results(entity[2], "total", entity_evaluation)
+            update_results(entity[2], "total")
 
     sum_total = 0
     sum_correct = 0
-
+    print("Entity Evaluation {}".format(entity_evaluation))
     for entity in entity_evaluation:
         total = entity_evaluation[entity]["total"]
         correct = entity_evaluation[entity]["correct"]
@@ -295,10 +306,10 @@ def evaluate_existing_entities(TEST_REVISION_DATA):
 if __name__ == "__main__":
     dataset = load_training_data('input/tagged_sentences_latest.json')
     pprint(dataset[:10])
-
+    
     retrieval_data = load_retrieval_data('input/info_retrieval_data_latest.csv')
 
-    revisions = prepare_revision_data(sentence_count=10000, batch_size=50)
+    revisions = prepare_revision_data(sentence_count=100000, batch_size=100)
 
     # print an example of the revision sentence
     #print(revisions[0][0])
@@ -306,14 +317,15 @@ if __name__ == "__main__":
     # print an example of the revision data
     #print(revisions[0][1])
 
-    TRAIN_REVISION_DATA, TEST_REVISION_DATA = split_revision_data()
+    TRAIN_REVISION_DATA, TEST_REVISION_DATA = split_revision_data(revisions)
 
     TRAIN_DATA, TEST_STAT_DATA = create_train_test_set(dataset, TRAIN_REVISION_DATA)
 
-    train_ner(TRAIN_DATA=TRAIN_DATA, epochs=30)
+    train_ner(TRAIN_DATA=TRAIN_DATA, epochs=100)
 
-    #display_sentences()
+    display_sentences()
 
     evaluate(TEST_STAT_DATA)
 
-    evaluate_existing_entities(TEST_REVISION_DATA)
+    evaluate_existing_entities(TEST_STAT_DATA)
+    
